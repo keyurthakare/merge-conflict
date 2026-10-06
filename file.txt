@@ -1,1 +1,2 @@
 This is an example for merge conflict in github.
+This line is the update to this file for creating a conflict.
